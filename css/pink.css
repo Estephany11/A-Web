@@ -1,0 +1,17 @@
+body{
+	background: url('../img/BMW4.jpg');
+	background-attachment: fixed;
+}
+
+#logo{
+	background: #a5047b;
+
+}
+
+#menu ul li:hover{
+	background: #a5047b;
+}
+
+.button-more{
+	background: #a8d7de;
+}
